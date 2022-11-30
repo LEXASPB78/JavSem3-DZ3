@@ -1,6 +1,6 @@
 package MergingSort;
 
-// Сортировка методом MergeSort
+// 1. Сортировка методом MergeSort
  
 public class MergeSorter {
 
